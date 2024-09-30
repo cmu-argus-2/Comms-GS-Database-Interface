@@ -49,10 +49,16 @@ This interface provides Python scripts and classes to interact with Google Cloud
    ```
 
 ## Configuration
+1.**Google Cloud Credentials**
 
-1. **Google Cloud Credentials**:
+The `key.json` file contains the credentials required to interact with Google Cloud Storage, which is recently keep in the drive with Mingyu Tang @Elon-M08. Turn to him if you want the access. 
 
-   You must have a Google Cloud Service Account key, which is recently keep in the drive with Mingyu Tang @Elon-M08. Turn to him if you want the access. Once you have downloaded the JSON key file, set it up in your environment:
+1. **Where to find it**: The `key.json` file is stored in a shared Google Drive folder. Please download it from [Google Drive Link](#) (ask the project owner @Mingyu Tang for access).
+2. **Where to place it**: Once downloaded, place the `key.json` file in the root directory ('./Database') of this project.
+
+Make sure **not** to upload this file to the repository. The `.gitignore` file is configured to prevent this file from being accidentally pushed to the repo.
+
+  Once you have downloaded the JSON key file, set it up in your environment:
 
    ```bash
    export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/key.json"
