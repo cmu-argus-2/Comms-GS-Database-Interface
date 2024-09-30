@@ -53,7 +53,7 @@ This interface provides Python scripts and classes to interact with Google Cloud
 
 The `key.json` file contains the credentials required to interact with Google Cloud Storage, which is recently keep in the drive with Mingyu Tang @Elon-M08. Turn to him if you want the access. 
 
-1. **Where to find it**: The `key.json` file is stored in a shared Google Drive folder. Please download it from [Google Drive Link](#) (ask the project owner @Mingyu Tang for access).
+1. **Where to find it**: The `key.json` file is stored in a shared Google Drive folder. Please download it from [[Google Drive Link](https://drive.google.com/drive/folders/17JAC30qSPgA-ENd2rCdT6bNez3cCowtP?usp=sharing)](#) (ask the project owner @Mingyu Tang for access).
 2. **Where to place it**: Once downloaded, place the `key.json` file in the root directory ('./Database') of this project.
 
 Make sure **not** to upload this file to the repository. The `.gitignore` file is configured to prevent this file from being accidentally pushed to the repo.
