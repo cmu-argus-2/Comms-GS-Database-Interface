@@ -1,7 +1,7 @@
 
 # Comms-GS-Database-Interface
 
-This project provides Python scripts and classes to interact with Google Cloud Storage, allowing you to upload, download, and list files from a GCS bucket. It's designed to be a quick and efficient way to manage your cloud storage resources.
+This interface provides Python scripts and classes to interact with Google Cloud Storage, allowing you to upload, download, and list files from a GCS bucket. 
 
 ## Table of Contents
 
