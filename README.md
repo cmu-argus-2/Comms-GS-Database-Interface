@@ -52,7 +52,7 @@ This interface provides Python scripts and classes to interact with Google Cloud
 
 1. **Google Cloud Credentials**:
 
-   You must have a Google Cloud Service Account key. Once you have downloaded the JSON key file, set it up in your environment:
+   You must have a Google Cloud Service Account key, which is recently keep in the drive with Mingyu Tang @Elon-M08. Turn to him if you want the access. Once you have downloaded the JSON key file, set it up in your environment:
 
    ```bash
    export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/key.json"
